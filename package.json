@@ -1,0 +1,32 @@
+{
+  "name": "@apiverve/playstorescraper",
+  "version": "1.0.0",
+  "description": "Play Store Scraper is a simple tool for scraping app store data. It returns the app name, description, price, and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/playstorescraper-API.git"
+  },
+  "keywords": [
+    "play store"," app store"," app data"," app store data"," app store scraper"," play store scraper"," app store api"," play store api"," app store data scraper"," play store data scraper"," app store data api"," play store data api"," app store data extraction"," play store data extraction"," app store data extraction api"," play store data extraction api"," app store data extraction tool"," play store data extraction tool"," app store data extraction software"," play store data extraction software"," app store data extraction service"," play store data extraction service"," app store data extraction library"," play store data extraction library"," app store data extraction sdk"," play store data extraction sdk"," app store data extraction library"," play store data extraction library"," app store data extraction sdk"," play store data extraction sdk"," app store data extraction library"," play store data extraction library"," app store data extraction sdk"," play store data extraction sdk"," app store data extraction library"," play store data extraction library"," app store data extraction sdk"," play store data extraction sdk"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/playstorescraper-API/issues"
+  },
+  "homepage": "https://github.com/apiverve/playstorescraper-API",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1",
+    "dotenv": "^2.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "promise": "^7.1.1",
+    "request": "^2.69.0"
+  }
+}
