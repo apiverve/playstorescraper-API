@@ -1,6 +1,6 @@
 {
   "name": "@apiverve/playstorescraper",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Play Store Scraper is a simple tool for scraping app store data. It returns the app name, description, price, and more.",
   "main": "index.js",
   "scripts": {
