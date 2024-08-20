@@ -78,17 +78,17 @@ api.execute(query, function (error, data) {
     "summary": "Real-time GPS navigation &amp; local suggestions for food, events, &amp; activities",
     "installs": "10,000,000,000+",
     "minInstalls": 10000000000,
-    "maxInstalls": 15881938489,
-    "score": 3.9253075,
+    "maxInstalls": 16063650207,
+    "score": 3.8896015,
     "scoreText": "3.9",
-    "ratings": 18037987,
-    "reviews": 647852,
+    "ratings": 18120455,
+    "reviews": 650656,
     "histogram": {
-      "1": 3130645,
-      "2": 972009,
-      "3": 1127659,
-      "4": 1691316,
-      "5": 11116333
+      "1": 3261774,
+      "2": 1024165,
+      "3": 1165021,
+      "4": 1671260,
+      "5": 10998217
     },
     "price": 0,
     "free": true,
@@ -158,7 +158,7 @@ api.execute(query, function (error, data) {
     ],
     "contentRating": "Everyone",
     "adSupported": true,
-    "updated": 1721129610000,
+    "updated": 1723424058000,
     "version": "VARY",
     "recentChanges": "Thanks for using Google Maps! This release brings bug fixes that improve our product to help you discover new places and navigate to them.<br><br>Become a beta tester: http://goo.gl/vLUcaJ",
     "comments": [
@@ -169,7 +169,8 @@ api.execute(query, function (error, data) {
     "isAvailableInPlayPass": false,
     "appId": "com.google.android.apps.maps",
     "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=en&gl=us"
-  }
+  },
+  "code": 200
 }
 ```
 
